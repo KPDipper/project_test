@@ -1,0 +1,17 @@
+.img-container{
+    height: 200px;
+    
+}
+
+.img-container img{
+    height:100%;
+
+}
+
+/* .card {
+    height: 340px !important;
+} */
+
+.card-body{
+    overflow: hidden !important;
+}
